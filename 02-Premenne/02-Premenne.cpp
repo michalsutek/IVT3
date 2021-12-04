@@ -27,10 +27,6 @@ int main()
     cout << "Minimlna hodnota char je " << CHAR_MIN << endl;
     cout << "Maximalna hodnota char je " << CHAR_MAX << endl;
 
-    cout << "Velkost char je " << sizeof(float) << endl;
-    cout << "Minimlna hodnota char je " << FLOAT_MIN << endl;
-    cout << "Maximalna hodnota char je " << FLOAT_MAX << endl;
-
     int maxInt = INT_MAX;
     cout << maxInt + 1;
 
