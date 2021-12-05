@@ -1,1 +1,2 @@
-# IVT3
+# Informatika a výpočtová technika III.ročník
+### C++
