@@ -1,1 +1,2 @@
-# IVT3
+# Informatika a výpoètová technika III.roèník
+### C++
