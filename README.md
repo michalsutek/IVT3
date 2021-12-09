@@ -1,2 +1,2 @@
-# Informatika a vıpoètová technika III.roèník
+# Informatika a vÃ½poÄtovÃ¡ technika III.roÃ¨nÃ­k
 ### C++
