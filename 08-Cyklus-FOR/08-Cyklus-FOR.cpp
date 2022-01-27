@@ -1,12 +1,42 @@
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    for (int i = 0; i < 10; i++)
+    //mala nasobilka:
+    /*
+    for (int j = 1; j <= 10; j++)
     {
-        std::cout << i << std::endl;
+        for (int i = 1; i <= 10; i++)
+        {
+            cout << i * j << ' ';
+        }
+        cout << endl;
+    }
+    */
+    
+    // stvorec z hviezdiciek
+
+    for (int j = 1; j <= 10; j++)
+    {
+        for (int i = 1; i <= 10; i++)
+        {
+            cout << '*';
+        }
+        cout << endl;
     }
 
-    
+    // pravouhly trojuholnik z hviezdiciek
+
+    for (int j = 1; j <= 10; j++)
+    {
+        for (int i = 1; i <= j; i++)
+        {
+            cout << '*';
+        }
+        cout << endl;
+    }
+
+
 }
+
 
